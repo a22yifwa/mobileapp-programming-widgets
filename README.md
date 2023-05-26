@@ -51,7 +51,5 @@
     app:layout_constraintTop_toTopOf="parent" /> //Skapa textview med constrainLayout//
 ```
 
-
-
-![](androidmin2.png)
+![](widgetsapp.png)
 
